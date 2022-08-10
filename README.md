@@ -109,4 +109,4 @@ You bot is all set!  You can invite it to 1-1 and 'group' spaces, see it sending
 
 You can always verify the bot is operational by browsing to its healthcheck URL (i.e. the app domain.)
 
-11
+12
